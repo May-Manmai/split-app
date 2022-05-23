@@ -7,7 +7,9 @@ Website: https://split-app-by-may.herokuapp.com/
 # Test user
 
 username: test
+
 email: test@test.com
+
 password: test
 
 ## Screenshots
