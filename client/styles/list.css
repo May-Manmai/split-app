@@ -1,0 +1,45 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.4.0/font/bootstrap-icons.min.css");
+@import url(https://unpkg.com/@webpixels/css@1.1.5/dist/index.css);
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800'); 
+
+main {
+    padding-top: 60px;
+    /* padding: 20px; */
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #000;
+    overflow-x: hidden;
+    height: 100%;
+    background-color: #ebcaf1be;
+    /* background-image: linear-gradient(to right, #c200fb, #ffbc0a); */
+    background-repeat: no-repeat;
+}
+
+
+#page {
+    padding-bottom: 57px;
+}
+#logo {
+    width: 150px;
+}
+
+th {
+    font-size: var(--bs-body-font-size) !important;
+    line-height: var(--bs-body-line-height) !important; 
+    font-weight: 700 !important;
+    color:#000 !important;
+}
+.mb-0{
+    text-align: center;
+}
+
+td {
+    font-size: 1rem !important;
+}
+.card {
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    color: black !important;
+}
