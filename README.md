@@ -4,6 +4,12 @@ No more awkward conversations with your mates. The best way to split costs and t
 
 Website: https://split-app-seixr06.herokuapp.com/
 
+# Test user
+
+username: test
+email: test@test.com
+password: test
+
 ## Screenshots
 
 ![Split Login](/assets/split-login.png)
