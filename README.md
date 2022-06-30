@@ -8,7 +8,7 @@ Website: https://split-app-seixr06.herokuapp.com/
 
 username: test
 email: test@test.com
-password: test
+password: test1234
 
 ## Screenshots
 
