@@ -10,6 +10,8 @@ username: test
 email: test@test.com
 password: test1234
 
+Have fun!
+
 ## Screenshots
 
 ![Split Login](/assets/split-login.png)
