@@ -2,7 +2,7 @@
 
 No more awkward conversations with your mates. The best way to split costs and track payments.
 
-Website: https://split-app-seixr06.herokuapp.com/
+Website: hhttps://split-app-by-may.herokuapp.com/
 
 # Test user
 
